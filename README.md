@@ -1,3 +1,13 @@
+Это тестовое задание. Его цель - добавить интерактив на сайт строительной компании. 
+Сразу скажу, что здесь нет красивого дизайна, моя цель - функционал.
+Как запустить:
+git clone https://github.com/Phund4/constructor.git
+cd constructor
+npm i
+npm run dev
+
+
+-------------------------------------------------- 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
