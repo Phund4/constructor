@@ -1,0 +1,19 @@
+@import '../../sass/App.sass'
+
+.button-cell
+    border: 0
+    width: 3.5rem
+    height: 3.5rem
+    background-color: white
+    @include respond(phone)
+        width: 2rem
+        height: 2rem
+
+.cell
+    width: 3.5rem
+    height: 3.5rem
+    border-bottom: .1rem solid rgba(203, 200, 200, 0.5)
+    border-right: .1rem solid rgba(203, 200, 200, 0.5)
+    @include respond(phone)
+        width: 2rem
+        height: 2rem
