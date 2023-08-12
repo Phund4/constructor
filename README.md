@@ -1,10 +1,10 @@
 Это тестовое задание. Его цель - добавить интерактив на сайт строительной компании. 
 Сразу скажу, что здесь нет красивого дизайна, моя цель - функционал.
 Как запустить:
-git clone https://github.com/Phund4/constructor.git
-cd constructor
-npm i
-npm run dev
+git clone https://github.com/Phund4/constructor.git <br />
+cd constructor <br />
+npm i <br />
+npm run dev <br />
 
 
 -------------------------------------------------- 
